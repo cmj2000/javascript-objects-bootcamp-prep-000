@@ -1,2 +1,2 @@
-var playlist = {emenuen: 'stan'};
+var playlist = {eminem: 'stan'};
 
