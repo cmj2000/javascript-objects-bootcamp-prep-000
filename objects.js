@@ -1,2 +1,3 @@
-var playlist = {eminem: 'stan'};
+var playlist = {eminem: 'Stan'};
 
+function 
