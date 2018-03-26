@@ -1,3 +1,8 @@
 var playlist = {eminem: 'Stan'};
 
-function 
+function updatePlaylist(playlist, artistName, songTitle)
+{
+  
+  
+  
+}
